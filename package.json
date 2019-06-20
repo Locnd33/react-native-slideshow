@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/haqiqiw/react-native-slideshow/issues"
   },
-  "homepage": "https://github.com/haqiqiw/react-native-slideshow#readme"
+  "homepage": "https://github.com/haqiqiw/react-native-slideshow#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
 }
